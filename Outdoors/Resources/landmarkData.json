@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Nose Hill Park",
+        "category": "Mountains",
+        "city": "Calgary",
+        "state": "Alberta",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Nose Hill Park",
+        "coordinates": {
+            "longitude": -114.1089,
+            "latitude": 51.1095
+        },
+        "description": "Nose Hill Park is a natural park in the northwest quadrant of Calgary, Alberta which covers over 11 km squared (4.2 sq mi). It is the fourth-largest urban park in Canada, and one of the largest urban parks in North America. It is a municipal park, unlike Fish Creek, which is a provincial park. Nose Hill Park is located in the northwest quadrant of Calgary, Alberta. It was created in 1980.",
+        "imageName": "nosehill"
+    },
+    {
+        "name": "Lake Louise",
+        "category": "Lakes",
+        "city": "Improvement District No. 9",
+        "state": "Alberta",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Banff National Park",
+        "coordinates": {
+            "longitude": -116.1773,
+            "latitude": 51.4254
+        },
+        "description": "Lake Louise is a hamlet in Banff National Park in the Canadian Rockies, known for its turquoise, glacier-fed lake ringed by high peaks and overlooked by a stately chateau. Hiking trails wind up to the Lake Agnes Tea House for bird's-eye views. There's a canoe dock in summer, and a skating rink on the frozen lake in winter. The Lake Louise Ski Resort features a wildlife interpretive center at the top of a gondola",
+        "imageName": "lakelouise"
+    },
+    {
+        "name": "Ha Ling Peak",
+        "category": "Mountains",
+        "city": "Canmore",
+        "state": "Alberta",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Bow Valley Provincial Park",
+        "coordinates": {
+            "longitude": -115.4017,
+            "latitude": 51.0633
+        },
+        "description": "Ha Ling Peak is a peak at the northwestern end of Mount Lawrence Grassi — a mountain located immediately south of the town of Canmore just east of the Spray Lakes road in Alberta's Canadian Rockies. It was previously named Chinaman's Peak but the name was changed to be less offensive. It was the subject of a 2018 CBC Documentary titled 'Ha Ling Peak' that follows the controversy and renaming of the mountain.",
+        "imageName": "haling"
+    },
+    {
+        "name": "Lake Minnewanka",
+        "category": "Lakes",
+        "city": "Improvement District No. 9",
+        "state": "Alberta",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Banff National Park",
+        "coordinates": {
+            "longitude": -115.3746,
+            "latitude": 51.2641
+        },
+        "description": "Lake Minnewanka is a glacial lake located in the eastern area of Banff National Park in Canada, about five kilometres northeast of the Banff townsite. The lake is 21 km long and 142 m deep, making it the 2nd longest lake in the mountain parks of the Canadian Rockies.",
+        "imageName": "minnewanka"
+    },
+    {
+        "name": "Moraine Lake",
+        "category": "Lakes",
+        "city": "Improvement District No. 9",
+        "state": "Alberta",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Banff National Park",
+        "coordinates": {
+            "longitude": -116.1860,
+            "latitude": 51.3217
+        },
+        "description": "Moraine Lake is a glacially fed lake in Banff National Park, 14 kilometres outside the Village of Lake Louise, Alberta, Canada. It is situated in the Valley of the Ten Peaks, at an elevation of approximately 1,884 metres. The lake has a surface area of 50 hectares.",
+        "imageName": "moraine"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "charleyrivers",
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "umbagog"
+    }
+]
