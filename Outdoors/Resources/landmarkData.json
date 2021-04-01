@@ -12,7 +12,7 @@
             "longitude": -114.1089,
             "latitude": 51.1095
         },
-        "description": "Nose Hill Park is a natural park in the northwest quadrant of Calgary, Alberta which covers over 11 km squared (4.2 sq mi). It is the fourth-largest urban park in Canada, and one of the largest urban parks in North America. It is a municipal park, unlike Fish Creek, which is a provincial park. Nose Hill Park is located in the northwest quadrant of Calgary, Alberta. It was created in 1980.",
+        "description": "Nose Hill Park is a natural park in the northwest quadrant of Calgary, Alberta which covers over 11 km (4.2 sq mi). It is the fourth-largest urban park in Canada, and one of the largest urban parks in North America. It is a municipal park, unlike Fish Creek, which is a provincial park. Nose Hill Park is located in the northwest quadrant of Calgary, Alberta. It was created in 1980.",
         "imageName": "nosehill"
     },
     {
@@ -80,115 +80,115 @@
         "imageName": "moraine"
     },
     {
-        "name": "Lake McDonald",
+        "name": "Sulphur Mountain",
         "category": "Mountains",
-        "city": "West Glacier",
-        "state": "Montana",
+        "city": "Improvement District No. 9",
+        "state": "Alberta",
         "id": 1006,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Glacier National Park",
+        "park": "Banff National Park",
         "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
+            "longitude": -115.5556,
+            "latitude": 51.1236
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "lakemcdonald"
+        "description": "Sulphur Mountain is a mountain in Banff National Park in the Canadian Rocky Mountains overlooking the town of Banff, Alberta, Canada. The mountain was named in 1916 for the hot springs on its lower slopes. George Dawson had referred to this landform as Terrace Mountain on his 1886 map of the area.",
+        "imageName": "sulphurmountain"
     },
     {
-        "name": "Charley Rivers",
+        "name": "Maligne River",
         "category": "Rivers",
-        "city": "Eaking",
-        "state": "Alaska",
+        "city": "Jasper",
+        "state": "Alberta",
         "id": 1007,
         "isFeatured": true,
         "isFavorite": false,
-        "park": "Charley Rivers National Preserve",
+        "park": "Jasper National Park",
         "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
+            "longitude": -117.2830,
+            "latitude": 52.3201
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "charleyrivers",
+        "description": "The Maligne River is a medium-sized river in the Canadian Rockies. It runs through parts of Jasper National Park in Alberta, Canada. The Maligne is a major tributary of the Athabasca River. The river takes from the French word for malignant or wicked.",
+        "imageName": "maligne",
     },
     {
-        "name": "Icy Bay",
+        "name": "Mount Columbia",
         "category": "Mountains",
-        "city": "Icy Bay",
-        "state": "Alaska",
+        "city": "Improvement District No. 12",
+        "state": "Alberta",
         "id": 1008,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Wrangell-St. Elias National Park and Preserve",
+        "park": "Jasper National Park",
         "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
+            "longitude": -117.4414,
+            "latitude": 52.1472
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "icybay"
+        "description": "Mount Columbia is a mountain located in the Winston Churchill Range of the Rocky Mountains. It is the highest point in Alberta, Canada, and is second only to Mount Robson for height and topographical prominence in the Canadian Rockies",
+        "imageName": "mountcolumbia"
     },
     {
-        "name": "Rainbow Lake",
+        "name": "Waterton Lake",
         "category": "Lakes",
-        "city": "Willow",
-        "state": "Alaska",
+        "city": "Waterton Park",
+        "state": "Alberta",
         "id": 1009,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "State Recreation Area",
+        "park": "Waterton Lakes National Park",
         "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
+            "longitude": -113.9167,
+            "latitude": 49.0833
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "rainbowlake"
+        "description": "Waterton Lakes National Park is in southern Alberta, Canada, bordering Montana’s Glacier National Park. It’s known for its chain of lakes, including the large Upper and Middle Waterton lakes, flanked by the Rocky Mountains. The Red Rock Parkway crosses the prairie to the small Red Rock Canyon. Bison graze near the Bison Paddock Loop Road. In Waterton village, a pathway offers close-up views of Cameron Falls.",
+        "imageName": "waterton"
     },
     {
-        "name": "Hidden Lake",
+        "name": "Okanagan Lake",
         "category": "Lakes",
-        "city": "Newhalem",
-        "state": "Washington",
+        "city": "Kelowna",
+        "state": "British Columbia",
         "id": 1010,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "North Cascades National Park",
+        "park": "Okanagan Lake Provincial Park",
         "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
+            "longitude": -119.5236,
+            "latitude": 49.8339
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "hiddenlake"
+        "description": "Okanagan Lake is a large, deep lake in the Okanagan Valley of British Columbia, Canada. The lake is 135 km long, between 4 and 5 km wide, and has a surface area of 348 km.",
+        "imageName": "okanagan"
     },
     {
-        "name": "Chincoteague",
+        "name": "Bow River",
         "category": "Rivers",
-        "city": "Chincoteague",
-        "state": "Virginia",
+        "city": "Banff",
+        "state": "Alberta",
         "id": 1011,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Chincoteague National Wildlife Refuge",
+        "park": "Banff National Park",
         "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
+            "longitude": -115.568020,
+            "latitude": 51.172605
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "chincoteague"
+        "description": "The Bow River is a river in Alberta, Canada. It begins within the Canadian Rocky Mountains and winds through the Alberta foothills onto the prairies, where it meets the Oldman River, the two then forming the South Saskatchewan River. These waters ultimately flow through the Nelson River into Hudson Bay.",
+        "imageName": "bowriver"
     },
     {
-        "name": "Lake Umbagog",
+        "name": "Shuswap Lake",
         "category": "Lakes",
-        "city": "Errol",
-        "state": "New Hampshire",
+        "city": "Sicamous",
+        "state": "British Columbia",
         "id": 1012,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
+        "park": "Shuswap Lake Marine Provincial Park",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": -119.0206,
+            "latitude": 50.50223
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "Shuswap Lake is a lake located in the southern interior of British Columbia, Canada that drains via the Little Shuswap River into Little Shuswap Lake. Little Shuswap Lake is the source of the South Thompson River, a branch of the Thompson River, a tributary of the Fraser River.",
+        "imageName": "shuswap"
     }
 ]
