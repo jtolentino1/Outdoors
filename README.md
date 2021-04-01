@@ -15,7 +15,7 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 
 List view of landmarks, as well as the "sort by favourite" function.
 
-![gif](https://media.giphy.com/media/a3hwUqZ1XNA98kOML3/giphy.gif)
+![](https://media.giphy.com/media/a3hwUqZ1XNA98kOML3/giphy.gif)
 
 ## What I Learned
 
