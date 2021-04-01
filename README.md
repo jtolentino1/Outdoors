@@ -5,7 +5,7 @@ https://developer.apple.com/xcode/swiftui/
 
 ## Getting Started
 
-This app is written in Swift 5.1 in the Xcode 12 IDE. No aditional installations are required to successfully build the app. Note that the UI has only been optimized for iPhone 11 / iPhone 12 running iOS 14.14.
+This app is written in Swift 5.1 in the Xcode 12 IDE. No aditional installations are required to successfully build the app. Note that the UI has only been optimized for iPhone 11 / iPhone 12 running iOS 14.
 
 ## About
 
