@@ -14,7 +14,8 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 ## Showcase
 
 List view of landmarks, as well as the "sort by favourite" function.
-![text](https://media.giphy.com/media/a3hwUqZ1XNA98kOML3/giphy.gif)
+
+![gif](https://media.giphy.com/media/a3hwUqZ1XNA98kOML3/giphy.gif)
 
 ## What I Learned
 
