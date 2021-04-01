@@ -159,7 +159,6 @@
 		C454C1E1261435260013C46C = {
 			isa = PBXGroup;
 			children = (
-				C46E4DF9261672400072481D /* Showcase */,
 				C454C1EC261435260013C46C /* Outdoors */,
 				C454C1FE261435280013C46C /* OutdoorsTests */,
 				C454C209261435280013C46C /* OutdoorsUITests */,
@@ -270,13 +269,6 @@
 				C46E4DF42615A6640072481D /* PageControl.swift */,
 			);
 			path = PageView;
-			sourceTree = "<group>";
-		};
-		C46E4DF9261672400072481D /* Showcase */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Showcase;
 			sourceTree = "<group>";
 		};
 		C4D6AC4926144474000F8996 /* Views */ = {
