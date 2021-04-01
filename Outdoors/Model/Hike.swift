@@ -1,9 +1,9 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-A representation of a hike.
-*/
+//
+//  CategoryHome.swift
+//  Outdoors
+//
+//  Created by Joshua Tolentino on 2021-04-01.
+//
 
 import Foundation
 
