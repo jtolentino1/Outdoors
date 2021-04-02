@@ -43,7 +43,7 @@ I learned quite a bit regarding SwiftUI when developing this app. The whole proc
 
 useful topics I learned from the Apple tutorial are:
 
-- SwiftUI Views
+- SwiftUI Essentials
   - Creating and Combining Views
   - Building Lists and Navigation
   - Handling User Inputs
