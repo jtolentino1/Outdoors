@@ -15,19 +15,27 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 
 1. App launch and home page
 
-![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif1.gif)
+<p align="center"> 
+<img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif1.gif">
+</p>
 
 2. List view and favourite sort
 
-![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif2.gif)
+<p align="center"> 
+<img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif2.gif">
+</p>
 
 3. Profile card, hike data, and profile editing
 
-![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif3.gif)
+<p align="center"> 
+<img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif3.gif">
+</p>
 
 4. Works in dark mode!
 
-![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif4.gif)
+<p align="center"> 
+<img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif4.gif">
+</p>
 
 ## What I Learned
 
