@@ -13,19 +13,19 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 
 ## Showcase
 
-1. App launch and home page
+1. App launch and home page.
 
 <p align="center"> 
 <img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif1.gif">
 </p>
 
-2. List view and favourite sort
+2. List view and favourite sort.
 
 <p align="center"> 
 <img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif2.gif">
 </p>
 
-3. Profile card, hike data, and profile editing
+3. Profile card, hike data, and profile editing.
 
 <p align="center"> 
 <img src="https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif3.gif">
