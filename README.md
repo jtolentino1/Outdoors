@@ -41,6 +41,21 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 
 I learned quite a bit regarding SwiftUI when developing this app. The whole process is streamlined for developers so that they focus on actually designing UI rather than looking for syntax errors, which is a common occurence for extremly wordy user interface frameworks. I'm pretty happy with my experience regarding SwiftUI and I will definitely incorporate it in my next projects when it comes to iOS apps.
 
+useful topics I learned from the Apple tutorial are:
+
+- SwiftUI Views
+  - Creating and Combining Views
+  - Building Lists and Navigation
+  - Handling User Inputs
+  
+- Drawing and Animation
+  - Drawing Paths and Shapes
+  - Animating Views and Transitions
+
+- App Design and Layout
+  - Composing Complex Interfaces
+  - Working with UI Controls
+
 ## What can be improved?
 
 Although this whole project is predominantely focused on UI only, I would love to see this app become a fully-pledged app. Some ideas of mine include:
