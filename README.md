@@ -39,7 +39,7 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 
 ## What I Learned
 
-I learned quite a bit regarding SwiftUI when developing this app. The whole process is streamlined for developers so that they focus on actually designing UI rather than looking for syntax errors in, which is a common occurence for extremly wordy user interface frameworks. I'm pretty happy with my experience regarding SwiftUI and I will definitely incorporate it in my next projects when it comes to iOS apps.
+I learned quite a bit regarding SwiftUI when developing this app. The whole process is streamlined for developers so that they focus on actually designing UI rather than looking for syntax errors, which is a common occurence for extremly wordy user interface frameworks. I'm pretty happy with my experience regarding SwiftUI and I will definitely incorporate it in my next projects when it comes to iOS apps.
 
 ## What can be improved?
 
