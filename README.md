@@ -47,4 +47,4 @@ Although this whole project is predominantely focused on UI only, I would love t
 
 1. A database system for the .json files that auto-updates, meaning aditional data does not need to be manually added.
 2. A server system that includes user sign in that saves user data such as recent hikes, achievements, etc.
-3. Dynamic photos that showcases the landmarks during different times of the year. (e.g. Lake Louise in the winter looks different that Lake Louise in the summer).
+3. Dynamic photos that showcases the landmarks during different times of the year. (e.g. Lake Louise in the winter looks different than Lake Louise in the summer).
