@@ -13,9 +13,21 @@ The Outdoors app showcases beautiful landmarks familiar to the people living in 
 
 ## Showcase
 
-List view of landmarks, as well as the "sort by favourite" function.
+1. App launch and home page
 
-![gif1](https://media.giphy.com/media/a3hwUqZ1XNA98kOML3/giphy.gif)
+![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif1.gif)
+
+2. List view and favourite sort
+
+![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif2.gif)
+
+3. Profile card, hike data, and profile editing
+
+![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif3.gif)
+
+4. Works in dark mode!
+
+![](https://github.com/jtolentino1/Outdoors/blob/main/Showcase/gif4.gif)
 
 ## What I Learned
 
